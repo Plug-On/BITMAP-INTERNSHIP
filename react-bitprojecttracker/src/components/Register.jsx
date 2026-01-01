@@ -23,7 +23,7 @@ const Register = () => {
               md:px-[60px]
             "
           >
-            <div className="mb-10 text-center md:mb-16">Laraveller</div>
+            <div className="mb-10 text-center md:mb-16 md:font-medium">Bit Project Tracker</div>
             <form>
               <div className="mb-4">
                 <input
